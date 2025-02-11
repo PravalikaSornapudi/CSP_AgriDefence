@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head><title>soil solution</title></head>
+         <body style="background-color: white;">
+    <div style="background-color:#556B2F; height:85px;  color: black">
+                                    
+        <div style="background-color: darkorange; height: 85px;width: 300px;color: black">
+<pre style="color: white">                                                                                      <a href="soilcsp.html">Home</a>    <a href="about.html">About</a>    <a href="solution.html">Solutions</a>  Testmonial    <a href="contact%20us.html">Contact Us</a> </pre>
+        <h1>AgriDefence</h1></div>
+    </div>
+        <h1>Soil solutions </h1>
+        <pre>
+             <a href="soil%20erosion.html"><img src="SOIL%20EROSION.jpeg" height="250"></a>     <a href="Soil%20Composition.html"><img src="soilc.jpg" height="250"></a>     <a href="poor.html"><img src="poor.jpg" height="250"></a>
+             Soil Erosion                                              Soil Composition                                     soil poor structure
+        </pre>
